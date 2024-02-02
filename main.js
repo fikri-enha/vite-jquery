@@ -23,4 +23,4 @@ $("#app").html(`
   </div>
 `);
 
-setupCounter($("#counter"));
+setupCounter("counter");
